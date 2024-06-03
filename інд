@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Black Pearl Hotel ✩✩✩✩</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display&family=Montserrat:wght@400;500;600&display=swap" rel="stylesheet">
+</head>
+<body>
+    <header class="header">
+        <h1 class="hotel-name">Black Pearl Hotel ✩✩✩✩</h1>
+        <nav class="navigation">
+            <ul>
+                <li><a href="about.html">Про готель</a></li>
+                <li><a href="rooms.html">Номери</a></li>
+                <li><a href="contact.html">Контакти</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section class="hero">
+            <h2 class="hero-slogan">Там, де море зустрічається з комфортом</h2>
+            <p class="hero-subtitle">Black Pearl – Перлина Чорноморського узбережжя</p>
+            <button class="booking-button">Забронювати</button>
+
+            <div class="welcome-section">
+                <p>Ласкаво просимо!
+                Ми створили ідеальне місце для оздоровлення та відпочинку. Насолоджуйтесь комфортом, розкішними краєвидами та широким спектром послуг. У нас ви знайдете все для відновлення гармонії тіла та душі.</p>
+                <p>У вартість проживання входить:</p>
+                <ul>
+                    <li>Сніданок "шведський стіл"</li>
+                    <li>Користування басейном та тренажерним залом</li>
+                    <li>Wi-Fi</li>
+                    <li>Парковка</li>
+                </ul>
+
+                <img src="hotel.png" alt="Зображення готелю Black Pearl" class="welcome-image"> 
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2023 Black Pearl Hotel</p>
+    </footer>
+</body>
+</html>  
