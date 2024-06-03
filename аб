@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Про готель - Black Pearl Hotel</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header class="header">
+        <h1 class="hotel-name">Black Pearl Hotel ✩✩✩✩</h1>
+        <nav class="navigation">
+            <ul>
+                <li><a href="about.html">Про готель</a></li>
+                <li><a href="rooms.html">Номери</a></li>
+                <li><a href="contact.html">Контакти</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+    <section id="about">
+    <h2>Про готель</h2>
+    <p class="room-description">
+        Готель "Black Pearl Hotel" ✩✩✩✩ розташований на мальовничому узбережжі Чорного моря, пропонуючи своїм гостям незабутній відпочинок в оточенні розкішної природи і високого рівня комфорту. Наш готель поєднує в собі елегантність та сучасні зручності, створюючи ідеальні умови для вашого відпочинку.
+    </p>
+
+    <h3>Основні послуги:</h3>
+    <ul>
+        <li class="room-description">Басейн: відкритий і закритий басейни з підігрівом.</li>
+        <li class="room-description">Ресторани та бари: головний ресторан з міжнародною кухнею, лобі-бар та бар біля басейну.</li>
+        <li class="room-description">Wi-Fi: Безкоштовний високошвидкісний інтернет на всій території готелю.</li>
+        <li class="room-description">Пляж: Приватний піщаний пляж з безкоштовними шезлонгами та парасольками.</li>
+        <li class="room-description">Парковка: Безкоштовна охоронювана парковка для гостей готелю.</li>
+    </ul>
+
+    <h3>Додаткові послуги:</h3>
+    <ul>
+        <li class="room-description">Фітнес-центр: Сучасно обладнаний тренажерний зал.</li>
+        <li class="room-description">СПА та Wellness: Різноманітні спа-процедури, сауна, турецька лазня, масажні кабінети.</li>
+        <li class="room-description">Дитячий клуб: Розважальні програми та послуги няні.</li>
+        <li class="room-description">Трансфер: Організація трансферу до аеропорту та назад.</li>
+        <li class="room-description">Бізнес-центр: Послуги факсу, копіювання та коворкінгу.</li>
+        <li class="room-description">Пральня та хімчистка: Професійні послуги з догляду за одягом.</li>
+    </ul>
+</section>
+
+    </main>
+
+    <footer>
+        <p>&copy; 2023 Black Pearl Hotel</p>
+    </footer>
+</body>
+</html>
